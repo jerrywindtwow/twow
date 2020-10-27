@@ -1,4 +1,3 @@
-import sys
 
 max_value = 21 + 1
 
@@ -14,5 +13,3 @@ for i in range(1, max_value, 2):
 girl_group = {"jerry": 1, "john": 2, "jenny": 3}
 for k, v in girl_group.items():
     print(k + " : ", str(v))
-
-
